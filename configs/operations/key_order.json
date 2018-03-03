@@ -1,0 +1,48 @@
+{
+  "CG_LANGUAGE": [
+    "KEY_ATV_MENU",
+    "KEY_RIGHT",
+    "KEY_RIGHT",
+    "KEY_RIGHT",
+    "KEY_DOWN",
+    "KEY_RIGHT",
+    "KEY_ATV_MENU",
+    "KEY_ATV_MENU"
+  ],
+  "POWER_ON": [
+    "KEY_POWER"
+  ],
+  "CG_INPUT_SOURCE": [
+    "KEY_INPUT",
+    "KEY_DOWN",
+    "KEY_OK"
+  ],
+  "CG_SOUND_MODE": [
+    "KEY_ATV_MENU",
+    "KEY_RIGHT",
+    "KEY_DOWN",
+    "KEY_RIGHT",
+    "KEY_ATV_MENU",
+    "KEY_ATV_MENU"
+  ],
+  "POWER_OFF": [
+    "KEY_POWER"
+  ],
+  "CG_PIC_MODE": [
+    "KEY_ATV_MENU",
+    "KEY_DOWN",
+    "KEY_RIGHT",
+    "KEY_ATV_MENU",
+    "KEY_ATV_MENU"
+  ],
+  "CG_TIME_ZONE": [
+    "KEY_ATV_MENU",
+    "KEY_RIGHT",
+    "KEY_RIGHT",
+    "KEY_DOWN",
+    "KEY_DOWN",
+    "KEY_RIGHT",
+    "KEY_ATV_MENU",
+    "KEY_ATV_MENU"
+  ]
+}

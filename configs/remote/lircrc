@@ -1,0 +1,11 @@
+begin
+    prog = irexec
+    button = KEY_POWER
+    config = echo “Hello world”
+end
+
+begin
+    prog = myprogram
+    button = KEY_DVD
+    config = DVD
+end

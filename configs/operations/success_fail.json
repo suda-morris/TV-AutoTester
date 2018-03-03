@@ -1,0 +1,92 @@
+{
+  "IR": [
+    {
+      "operation": "POWER_ON",
+      "success": [
+        "main loop"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "POWER_OFF",
+      "success": [
+        "POWER DOWN"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "CG_PIC_MODE",
+      "success": [
+        "g_astVideo",
+        "pictureMode",
+        "changed"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "CG_SOUND_MODE",
+      "success": [
+        "g_SoundSetting",
+        "soundMode",
+        "changed"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "CG_TIME_ZONE",
+      "success": [
+        "g_SysSetting",
+        "changed"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "CG_LANGUAGE",
+      "success": [
+        "g_SysSetting",
+        "changed"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "CG_INPUT_SOURCE",
+      "success": [
+        "MApp_InputSource_SwitchSource"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    }
+  ],
+  "RELAY": [
+    {
+      "operation": "PLUG_IN",
+      "success": [
+        "Hello"
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    },
+    {
+      "operation": "PLUG_OUT",
+      "success": [
+      ],
+      "fail": [
+        "FALSE"
+      ]
+    }
+  ]
+}
